@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		9FE09EEB298FF0D500BC9B80 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EEA298FF0D500BC9B80 /* main.swift */; };
+		9FE09EF2298FF20000BC9B80 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EF1298FF20000BC9B80 /* User.swift */; };
+		9FE09EF4298FF20E00BC9B80 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EF3298FF20E00BC9B80 /* Student.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		9FE09EE7298FF0D500BC9B80 /* 2 задание 2 дз 2 месяц */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2 задание 2 дз 2 месяц"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE09EEA298FF0D500BC9B80 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9FE09EF1298FF20000BC9B80 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		9FE09EF3298FF20E00BC9B80 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				9FE09EEA298FF0D500BC9B80 /* main.swift */,
+				9FE09EF1298FF20000BC9B80 /* User.swift */,
+				9FE09EF3298FF20E00BC9B80 /* Student.swift */,
 			);
 			path = "2 задание 2 дз 2 месяц";
 			sourceTree = "<group>";
@@ -97,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9FE09EE2298FF0D500BC9B80 /* Build configuration list for PBXProject "2 задание 2 дз 2 месяц" */;
+			buildConfigurationList = 9FE09EE2298FF0D500BC9B80 /* Build configuration list for PBXProject "2 zadanie 2 dz 2 mes" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -120,6 +126,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FE09EF2298FF20000BC9B80 /* User.swift in Sources */,
+				9FE09EF4298FF20E00BC9B80 /* Student.swift in Sources */,
 				9FE09EEB298FF0D500BC9B80 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -261,7 +269,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9FE09EE2298FF0D500BC9B80 /* Build configuration list for PBXProject "2 задание 2 дз 2 месяц" */ = {
+		9FE09EE2298FF0D500BC9B80 /* Build configuration list for PBXProject "2 zadanie 2 dz 2 mes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9FE09EEC298FF0D500BC9B80 /* Debug */,
